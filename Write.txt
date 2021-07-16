@@ -1,0 +1,51 @@
+Heavy University Lahore
+2
+Computer Science
+9
+CS100,Programming Fundamentals
+CS200,Data Structures
+CS300,Mathematics
+CS400,English
+CS500,Physics
+CS600,Chemistry
+CS700,Calclus
+CS800,Differential Equations
+CS900,ArtifiCial intelligence
+5
+111,Zafar Iqbal,111
+777,Fakhar Imam,111
+778,Muhammad Ali,111
+779,Sarfraz Ahmad,111
+898,Zaid Ali,111
+1
+256,Irfan Majeed,111
+9
+1801,Muhammad Akram,111
+1802,Zainab Irfan,111
+1803,Hassan Afzal,111
+1804,Usman Khalid,111
+1805,Aysha Lukhwani,111
+1806,Zainab Chichti,111
+1807,Abdullah Arif,111
+147,Akhtar,111
+111,Nisaab,147
+Electrical Engineering
+8
+CS100,Multivariable Calclus
+CS200,Data Structures
+CS300,General Science
+CS400,English
+CS500,Database Management
+CS600,Chemistry
+CS700,Programming
+CS800,OOP
+3
+112,Kashif Naveed,111
+888,Daud Khan,111
+889,Usama Khalid,111
+1
+257,Sohail Ahmad,111
+3
+1901,Mohsin Iqbal,111
+1902,Amna Khan,111
+1903,Ali Raza,111
